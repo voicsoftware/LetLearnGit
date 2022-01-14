@@ -10,7 +10,8 @@ function Countt($str)
     {
         if ($str[$i] >= 'A' &&  $str[$i] <= 'Z')
 		{
-			echo $str[$i];
+			echo "this is capital letter in the given Stinng"."</br>";
+            echo  $str[$i];
 		}
             
            
